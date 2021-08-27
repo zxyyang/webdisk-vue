@@ -1,0 +1,68 @@
+Date : 2020-07-05 16:25:46
+Directory : /Users/koboku/Desktop/项目/webdisk-vue
+Total : 31 files,  13957 codes, 107 comments, 169 blanks, all 14233 lines
+
+Languages
++------------+------------+------------+------------+------------+------------+
+| language   | files      | code       | comment    | blank      | total      |
++------------+------------+------------+------------+------------+------------+
+| JSON       |          3 |     11,864 |          0 |          3 |     11,867 |
+| Vue        |          7 |      1,283 |         20 |         41 |      1,344 |
+| JavaScript |         17 |        766 |         85 |        113 |        964 |
+| HTML       |          2 |         22 |          2 |          2 |         26 |
+| Markdown   |          1 |         14 |          0 |          8 |         22 |
+| Properties |          1 |          8 |          0 |          2 |         10 |
++------------+------------+------------+------------+------------+------------+
+
+Directories
++-------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                    | files      | code       | comment    | blank      | total      |
++-------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                       |         31 |     13,957 |        107 |        169 |     14,233 |
+| build                                                                   |          7 |        472 |         43 |         57 |        572 |
+| config                                                                  |          3 |         55 |         25 |         19 |         99 |
+| src                                                                     |         13 |      1,515 |         35 |         76 |      1,626 |
+| src/components                                                          |          5 |      1,012 |         16 |         32 |      1,060 |
+| src/components/popover                                                  |          1 |         11 |          0 |          3 |         14 |
+| src/js                                                                  |          3 |        169 |         12 |         26 |        207 |
+| src/router                                                              |          1 |         19 |          0 |          2 |         21 |
+| template                                                                |          2 |         22 |          2 |          2 |         26 |
++-------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++-------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| filename                                                                | language   | code       | comment    | blank      | total      |
++-------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| /Users/koboku/Desktop/项目/webdisk-vue/.editorconfig                      | Properties |          8 |          0 |          2 |         10 |
+| /Users/koboku/Desktop/项目/webdisk-vue/.postcssrc.js                      | JavaScript |          7 |          2 |          2 |         11 |
+| /Users/koboku/Desktop/项目/webdisk-vue/.prettierrc                        | JSON       |          4 |          0 |          1 |          5 |
+| /Users/koboku/Desktop/项目/webdisk-vue/README.md                          | Markdown   |         14 |          0 |          8 |         22 |
+| /Users/koboku/Desktop/项目/webdisk-vue/build/build.js                     | JavaScript |         35 |          0 |          7 |         42 |
+| /Users/koboku/Desktop/项目/webdisk-vue/build/check-versions.js            | JavaScript |         45 |          0 |         10 |         55 |
+| /Users/koboku/Desktop/项目/webdisk-vue/build/utils.js                     | JavaScript |         80 |          5 |         17 |        102 |
+| /Users/koboku/Desktop/项目/webdisk-vue/build/vue-loader.conf.js           | JavaScript |         21 |          0 |          2 |         23 |
+| /Users/koboku/Desktop/项目/webdisk-vue/build/webpack.base.conf.js         | JavaScript |         75 |          4 |          5 |         84 |
+| /Users/koboku/Desktop/项目/webdisk-vue/build/webpack.dev.conf.js          | JavaScript |         89 |          7 |          8 |        104 |
+| /Users/koboku/Desktop/项目/webdisk-vue/build/webpack.prod.conf.js         | JavaScript |        127 |         27 |          8 |        162 |
+| /Users/koboku/Desktop/项目/webdisk-vue/config/dev.env.js                  | JavaScript |          6 |          0 |          2 |          8 |
+| /Users/koboku/Desktop/项目/webdisk-vue/config/index.js                    | JavaScript |         45 |         25 |         16 |         86 |
+| /Users/koboku/Desktop/项目/webdisk-vue/config/prod.env.js                 | JavaScript |          4 |          0 |          1 |          5 |
+| /Users/koboku/Desktop/项目/webdisk-vue/package-lock.json                  | JSON       |     11,794 |          0 |          1 |     11,795 |
+| /Users/koboku/Desktop/项目/webdisk-vue/package.json                       | JSON       |         66 |          0 |          1 |         67 |
+| /Users/koboku/Desktop/项目/webdisk-vue/src/App.vue                        | Vue        |         62 |          4 |          5 |         71 |
+| /Users/koboku/Desktop/项目/webdisk-vue/src/components/HelloWorld.vue      | Vue        |        111 |          0 |          3 |        114 |
+| /Users/koboku/Desktop/项目/webdisk-vue/src/components/content.vue         | Vue        |        216 |          0 |          5 |        221 |
+| /Users/koboku/Desktop/项目/webdisk-vue/src/components/files.vue           | Vue        |        605 |         15 |         17 |        637 |
+| /Users/koboku/Desktop/项目/webdisk-vue/src/components/popover/ongoing.vue | Vue        |         11 |          0 |          3 |         14 |
+| /Users/koboku/Desktop/项目/webdisk-vue/src/components/share.vue           | Vue        |         69 |          1 |          4 |         74 |
+| /Users/koboku/Desktop/项目/webdisk-vue/src/js/login.js                    | JavaScript |         12 |          3 |          4 |         19 |
+| /Users/koboku/Desktop/项目/webdisk-vue/src/js/request.js                  | JavaScript |        105 |          0 |         15 |        120 |
+| /Users/koboku/Desktop/项目/webdisk-vue/src/js/utils.js                    | JavaScript |         52 |          9 |          7 |         68 |
+| /Users/koboku/Desktop/项目/webdisk-vue/src/login.vue                      | Vue        |        209 |          0 |          4 |        213 |
+| /Users/koboku/Desktop/项目/webdisk-vue/src/main.js                        | JavaScript |         20 |          3 |          3 |         26 |
+| /Users/koboku/Desktop/项目/webdisk-vue/src/router/index.js                | JavaScript |         19 |          0 |          2 |         21 |
+| /Users/koboku/Desktop/项目/webdisk-vue/src/store.js                       | JavaScript |         24 |          0 |          4 |         28 |
+| /Users/koboku/Desktop/项目/webdisk-vue/template/index.html                | HTML       |         11 |          1 |          1 |         13 |
+| /Users/koboku/Desktop/项目/webdisk-vue/template/login.html                | HTML       |         11 |          1 |          1 |         13 |
+| Total                                                                   |            |     13,957 |        107 |        169 |     14,233 |
++-------------------------------------------------------------------------+------------+------------+------------+------------+------------+
